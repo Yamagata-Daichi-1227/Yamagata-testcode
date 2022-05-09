@@ -1,0 +1,24 @@
+-----------2021/7/29------------------------
+
+http://printych.com/2020/07/02/vtk-numpy-visualization/
+https://kitware.github.io/vtk-examples/site/Python/
+https://kitware.github.io/vtk-examples/site/Python/Visualization/CurvatureBandsWithGlyphs/
+https://www.programmersought.com/article/44004356668/
+https://discourse.itk.org/t/save-and-write-a-vtk-polydata-file/2516/14
+https://stackoverflow.com/questions/59265510/convert-itk-nifti-file-to-polydata-image-vtk
+https://kitware.github.io/vtk-examples/site/Cxx/Images/ImageMapToColors/
+https://kitware.github.io/vtk-examples/site/Python/Visualization/AssignCellColorsFromLUT/
+http://www.sci.utah.edu/~miriah/cs6630/#L6
+https://vtk.org/pipermail/vtkusers/2002-May/011623.html
+
+main URl
+https://vtk.org/doc/nightly/html/annotated.html
+https://discourse.vtk.org/t/convert-nifti-file-to-vtk-polydata-file/2325
+https://stackoverflow.com/questions/66866835/vtk-interpolating-values-when-colouring-vtkpolydata-with-vtkimagedata
+http://www.sci.utah.edu/~dfwang/CS6630/proj3/REPORT3.html
+
+
+
+
+
+

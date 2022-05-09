@@ -1,0 +1,16 @@
+# docker build -t infosec-create-user .
+# docker run -v $PWD:/app -it infosec-create-user /bin/bash
+
+FROM python:3.8
+
+RUN groupadd -r app \
+ && useradd -r -g app -d /app app
+RUN mkdir /app && chown app:app /app
+
+WORKDIR /app
+COPY . .
+
+RUN pip install -r requirements.txt
+RUN pip install boto3
+
+USER app
