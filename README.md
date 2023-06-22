@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yamagata-Daichi-1227
-I'm a 24-year-old graduate student.
+I'm a 25-year-old graduate student.
 During my undergraduate years, I majored in the Department of Information and Communication Technology.
 I'll leave a sample of my own code here.
 The following source code is posted with the permission of the internship supervisor or the professor.
