@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Date : 2019/11/13
-# Author : Naoto Suzuki (MA19046)
+# Author : 
 
 # このスクリプトは，/etc/network/interfaces ファイルの設定を行うものである．
 # 以下のネットワーク設定を正しく設定したら，シェル上で以下のコマンドを実行する．
